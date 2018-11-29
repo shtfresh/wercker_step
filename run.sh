@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo 'wercker steps template'
+echo 'Hello World'
