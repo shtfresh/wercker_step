@@ -6,4 +6,5 @@ build:
 publish:
     steps:
         - internal/publish-step:
+            private: true
             owner: shtfresh
